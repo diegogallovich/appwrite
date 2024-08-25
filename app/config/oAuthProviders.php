@@ -322,6 +322,16 @@ return [
         'beta' => false,
         'mock' => false,
     ],
+    'webflow' => [
+        'name' => 'Webflow',
+        'developers' => 'https://docs.developers.webflow.com/data/reference/oauth-app',
+        'icon' => 'icon-webflow',
+        'enabled' => true,
+        'sandbox' => false,
+        'form' => false,
+        'beta' => false,
+        'mock' => false,
+    ],
     'wordpress' => [
         'name' => 'WordPress',
         'developers' => 'https://developer.wordpress.com/docs/oauth2/',
